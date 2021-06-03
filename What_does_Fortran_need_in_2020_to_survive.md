@@ -61,4 +61,4 @@ And finally, just few selected facts. Rosetta code site shows in about 50% of ta
 
 In summary, the words of Prof. Dijkstra are unfortunately still/again actual: _The Fortran language is still &quot;the infantile disorder--, by now nearly 65 (corr., originally 20) years old, is hopelessly inadequate for whatever computer application you have in mind today: it is now too clumsy, too risky, and too expensive to use&quot;._
 
-Sorry guys, but that is the hard truth someone need to repeat now loud and clear. To survive (but without any guarantee for prosperity) we need to address all these questions, and we should fix/repair everything listed here very quickly. Otherwise, there is no &quot;future&quot; for Fortran.
+Sorry guys, but that is the hard truth someone needs to repeat now loud and clear. To survive (but without any guarantee for prosperity) we need to address all these questions, and we should fix/repair everything listed here very quickly. Otherwise, there is no &quot;future&quot; for Fortran.
